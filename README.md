@@ -22,7 +22,7 @@ The program will run on http://localhost:9090
 ### API Route List
 | Method | URL | Description |
 | ----------- | ----------- | ----------- | 
-| GET | localhost:8000/update-stock  | Update Stock Demo |
-| GET | localhost:8000/update-stock-race  | Update Stock Demo with Race Condition Example |
+| GET | localhost:9090/update-stock  | Update Stock Demo |
+| GET | localhost:9090/update-stock-race  | Update Stock Demo with Race Condition Example |
       
 <!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
